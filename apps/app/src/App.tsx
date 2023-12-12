@@ -1,7 +1,7 @@
-import { FoxIcon } from "./components/FoxIcon";
+import { Home } from "./pages/Home";
 
 function App() {
-  return <FoxIcon />;
+  return <Home />;
 }
 
 export default App;
