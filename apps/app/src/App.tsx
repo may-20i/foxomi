@@ -1,5 +1,7 @@
+import { FoxIcon } from "./components/FoxIcon";
+
 function App() {
-  return <></>;
+  return <FoxIcon />;
 }
 
 export default App;
